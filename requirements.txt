@@ -1,0 +1,13 @@
+amqp==2.5.2
+celery==4.4.0
+Django==2.2.7
+djangorestframework==3.10.3
+eventlet==0.25.1
+psycopg2==2.8.4
+python-dateutil==2.8.1
+rabbitmq==0.2.0
+requests==2.22.0
+sqlparse==0.3.0
+tzlocal==2.0.0
+urllib3==1.25.7
+
