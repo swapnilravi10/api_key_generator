@@ -1,6 +1,6 @@
 amqp==2.5.2
 celery==4.4.0
-Django==2.2.7
+Django==2.2.24
 djangorestframework==3.10.3
 eventlet==0.25.1
 psycopg2==2.8.4
