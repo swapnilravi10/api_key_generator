@@ -1,5 +1,5 @@
 amqp==2.5.2
-celery==4.4.0
+celery==5.2.2
 Django==2.2.7
 djangorestframework==3.10.3
 eventlet==0.25.1
